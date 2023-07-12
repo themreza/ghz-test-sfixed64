@@ -17,7 +17,7 @@ go build -o server cmd/test-server/main.go
 ./server
 ```
 
-## Test ghz
+## Test with ghz
 
 ```shell
 ghz --version
@@ -37,3 +37,9 @@ ghz --insecure \
 `1000000000000000089` is rounded up to `1000000000000000100`.
 
 `10000000000000089` is rounded down to `10000000000000088`.
+
+## Test with Postman
+
+![image](https://github.com/themreza/ghz-test-sfixed64/assets/5465057/7e7528d3-9501-4f80-8b4d-7dc9582f0fd3)
+
+![image](https://github.com/themreza/ghz-test-sfixed64/assets/5465057/702c9cbc-632e-46f9-afad-08a1d3772816)
