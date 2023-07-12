@@ -40,6 +40,7 @@ ghz --insecure \
 
 ## Test with Postman
 
-![image](https://github.com/themreza/ghz-test-sfixed64/assets/5465057/7e7528d3-9501-4f80-8b4d-7dc9582f0fd3)
+![image](https://github.com/themreza/ghz-test-sfixed64/assets/5465057/ebb45b35-f48b-420c-a62f-a1363e80e38a)
 
-![image](https://github.com/themreza/ghz-test-sfixed64/assets/5465057/702c9cbc-632e-46f9-afad-08a1d3772816)
+![image](https://github.com/themreza/ghz-test-sfixed64/assets/5465057/3276a1ba-59f8-41d9-8986-8fd14e7a7485)
+
