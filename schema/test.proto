@@ -1,0 +1,16 @@
+syntax = "proto3";
+package protos;
+
+option go_package = "/protos";
+
+message TestRequest {
+  sfixed64 id = 1;
+}
+
+message TestResponse {
+  sfixed64 id = 1;
+}
+
+service TestService {
+  rpc Echo (TestRequest) returns (TestResponse);
+}
